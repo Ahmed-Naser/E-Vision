@@ -1,0 +1,14 @@
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\bin\Debug\netcoreapp2.2\Evision.API.deps.json
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\bin\Debug\netcoreapp2.2\Evision.API.runtimeconfig.json
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\bin\Debug\netcoreapp2.2\Evision.API.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\bin\Debug\netcoreapp2.2\Evision.API.dll
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\bin\Debug\netcoreapp2.2\Evision.API.pdb
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\obj\Debug\netcoreapp2.2\Evision.API.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\obj\Debug\netcoreapp2.2\Evision.API.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\obj\Debug\netcoreapp2.2\Evision.API.RazorAssemblyInfo.cache
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\obj\Debug\netcoreapp2.2\Evision.API.RazorAssemblyInfo.cs
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\obj\Debug\netcoreapp2.2\Evision.API.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\obj\Debug\netcoreapp2.2\Evision.API.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\obj\Debug\netcoreapp2.2\Evision.API.RazorTargetAssemblyInfo.cache
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\obj\Debug\netcoreapp2.2\Evision.API.dll
+C:\Users\ahmed\Desktop\Task E-Vision\Evision.API\obj\Debug\netcoreapp2.2\Evision.API.pdb
